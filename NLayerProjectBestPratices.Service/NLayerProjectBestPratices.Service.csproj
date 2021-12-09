@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\NLayerProjectBestPratices.Core\NLayerProjectBestPratices.Core.csproj" />
+    <ProjectReference Include="..\NLayerProjectBestPratices.Data\NLayerProjectBestPratices.Data.csproj" />
+  </ItemGroup>
+
+</Project>

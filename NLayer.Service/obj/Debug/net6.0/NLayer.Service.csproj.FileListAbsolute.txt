@@ -1,0 +1,17 @@
+C:\Users\mehmet.ozturk\Desktop\NLayer\NLayer.Service\bin\Debug\net6.0\NLayer.Service.deps.json
+C:\Users\mehmet.ozturk\Desktop\NLayer\NLayer.Service\bin\Debug\net6.0\NLayer.Service.dll
+C:\Users\mehmet.ozturk\Desktop\NLayer\NLayer.Service\bin\Debug\net6.0\NLayer.Service.pdb
+C:\Users\mehmet.ozturk\Desktop\NLayer\NLayer.Service\bin\Debug\net6.0\NLayer.Core.dll
+C:\Users\mehmet.ozturk\Desktop\NLayer\NLayer.Service\bin\Debug\net6.0\NLayer.Repository.dll
+C:\Users\mehmet.ozturk\Desktop\NLayer\NLayer.Service\bin\Debug\net6.0\NLayer.Repository.pdb
+C:\Users\mehmet.ozturk\Desktop\NLayer\NLayer.Service\bin\Debug\net6.0\NLayer.Core.pdb
+C:\Users\mehmet.ozturk\Desktop\NLayer\NLayer.Service\obj\Debug\net6.0\NLayer.Service.csproj.AssemblyReference.cache
+C:\Users\mehmet.ozturk\Desktop\NLayer\NLayer.Service\obj\Debug\net6.0\NLayer.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mehmet.ozturk\Desktop\NLayer\NLayer.Service\obj\Debug\net6.0\NLayer.Service.AssemblyInfoInputs.cache
+C:\Users\mehmet.ozturk\Desktop\NLayer\NLayer.Service\obj\Debug\net6.0\NLayer.Service.AssemblyInfo.cs
+C:\Users\mehmet.ozturk\Desktop\NLayer\NLayer.Service\obj\Debug\net6.0\NLayer.Service.csproj.CoreCompileInputs.cache
+C:\Users\mehmet.ozturk\Desktop\NLayer\NLayer.Service\obj\Debug\net6.0\NLayer.Service.csproj.CopyComplete
+C:\Users\mehmet.ozturk\Desktop\NLayer\NLayer.Service\obj\Debug\net6.0\NLayer.Service.dll
+C:\Users\mehmet.ozturk\Desktop\NLayer\NLayer.Service\obj\Debug\net6.0\refint\NLayer.Service.dll
+C:\Users\mehmet.ozturk\Desktop\NLayer\NLayer.Service\obj\Debug\net6.0\NLayer.Service.pdb
+C:\Users\mehmet.ozturk\Desktop\NLayer\NLayer.Service\obj\Debug\net6.0\ref\NLayer.Service.dll

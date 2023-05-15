@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "5Rq+x1UknAQmpbys/J8rVMz5r6RbDW0vZtjda75DD53qXQlisWgjX79RIF7bXBzpOvonTvcsXgMB630yXW7G2w==",
+  "dgSpecHash": "bI7jz91HcpUFwKlLXuC6H/eNNr751LGRVr3X68OL2knDz8Ct8J8ZK//I3pJy7YB2f/rFLvKjKIGSnyxVCXFr7A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\mehme\\Desktop\\Dosyalar\\WebDeveloper\\NLayerProjectBestPratices-Api-Web Haberleşmesi\\NLayerProjectBestPratices.Core\\NLayerProjectBestPratices.Core.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\mehmet.ozturk\\Desktop\\NLayerProjectBestPratices-NETCORE\\NLayerProjectBestPratices.Core\\NLayerProjectBestPratices.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mehmet.ozturk\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\mehmet.ozturk\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\mehmet.ozturk\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

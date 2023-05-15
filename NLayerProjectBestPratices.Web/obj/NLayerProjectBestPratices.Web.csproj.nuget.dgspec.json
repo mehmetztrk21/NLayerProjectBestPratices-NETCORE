@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mehme\\Desktop\\Dosyalar\\WebDeveloper\\NLayerProjectBestPratices-Api-Web Haberleşmesi\\NLayerProjectBestPratices.Web\\NLayerProjectBestPratices.Web.csproj": {}
+    "C:\\Users\\mehmet.ozturk\\Desktop\\NLayerProjectBestPratices-NETCORE\\NLayerProjectBestPratices.Web\\NLayerProjectBestPratices.Web.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mehme\\Desktop\\Dosyalar\\WebDeveloper\\NLayerProjectBestPratices-Api-Web Haberleşmesi\\NLayerProjectBestPratices.Web\\NLayerProjectBestPratices.Web.csproj": {
+    "C:\\Users\\mehmet.ozturk\\Desktop\\NLayerProjectBestPratices-NETCORE\\NLayerProjectBestPratices.Web\\NLayerProjectBestPratices.Web.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mehme\\Desktop\\Dosyalar\\WebDeveloper\\NLayerProjectBestPratices-Api-Web Haberleşmesi\\NLayerProjectBestPratices.Web\\NLayerProjectBestPratices.Web.csproj",
+        "projectUniqueName": "C:\\Users\\mehmet.ozturk\\Desktop\\NLayerProjectBestPratices-NETCORE\\NLayerProjectBestPratices.Web\\NLayerProjectBestPratices.Web.csproj",
         "projectName": "NLayerProjectBestPratices.Web",
-        "projectPath": "C:\\Users\\mehme\\Desktop\\Dosyalar\\WebDeveloper\\NLayerProjectBestPratices-Api-Web Haberleşmesi\\NLayerProjectBestPratices.Web\\NLayerProjectBestPratices.Web.csproj",
-        "packagesPath": "C:\\Users\\mehme\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mehme\\Desktop\\Dosyalar\\WebDeveloper\\NLayerProjectBestPratices-Api-Web Haberleşmesi\\NLayerProjectBestPratices.Web\\obj\\",
+        "projectPath": "C:\\Users\\mehmet.ozturk\\Desktop\\NLayerProjectBestPratices-NETCORE\\NLayerProjectBestPratices.Web\\NLayerProjectBestPratices.Web.csproj",
+        "packagesPath": "C:\\Users\\mehmet.ozturk\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mehmet.ozturk\\Desktop\\NLayerProjectBestPratices-NETCORE\\NLayerProjectBestPratices.Web\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\mehme\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\mehmet.ozturk\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -26,7 +22,8 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/dincerlogistic/_packaging/dincerlogistic/nuget/v3/index.json": {}
         },
         "frameworks": {
           "net5.0": {
@@ -59,10 +56,29 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[5.0.17, 5.0.17]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
@@ -71,7 +87,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
         }
       }
     }

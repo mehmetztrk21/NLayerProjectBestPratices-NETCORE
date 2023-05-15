@@ -9,7 +9,6 @@ namespace NLayer.Core.Services
 {
     public interface IService<T> where T : class
     {
-
         Task<T> GetById(int id);
         Task<IEnumerable<T>> GetAll(Expression<Func<T, bool>> expression);
         IQueryable<T> Where(Expression<Func<T, bool>> expression);
